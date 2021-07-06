@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+.titleContainer {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  font-family: 'Archivo Black', sans-serif;
+}
+.left {
+  background-color: darkblue;
+  height: 100%;
+  width: 50%;
+}
+.left {
+  height: 100%;
+  width: 50%;
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+  font-size: 5rem;
+  text-align: center;
+}
+.first {
+  color: white
+}
+.last {
+  color: darkblue;
+}
+.developer {
+  font-size: 3rem;
+  margin-right: .5rem;
+}
