@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -5,7 +6,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
+  font-family: 'Archivo Black', sans-serif;
+
 }
 
 .main {

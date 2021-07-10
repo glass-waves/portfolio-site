@@ -1,0 +1,17 @@
+.aboutContainer{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+.left{
+  height: 100%;
+  width: 50%;
+  padding: 40px;
+  position: relative;
+}
+.right{
+  height: 100%;
+  width: 50%;
+  background-color: darkblue;
+  padding: 40px;
+}
